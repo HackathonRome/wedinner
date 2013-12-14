@@ -1,0 +1,39 @@
+{
+    "friends": [
+        {
+            "email":"alberto@xdinner.com",
+            "name": "alberto",
+            "img": "http://www.clker.com/cliparts/O/N/h/C/W/z/teamstijl-person-icon-orange.svg"
+        },
+        {
+            "email":"claudio@xdinner.com",
+            "name": "claudio",
+            "img": "http://www.clker.com/cliparts/O/N/h/C/W/z/teamstijl-person-icon-orange.svg"
+        },
+        {
+            "email":"luca@xdinner.com",
+            "name": "luca",
+            "img": "http://www.clker.com/cliparts/O/N/h/C/W/z/teamstijl-person-icon-orange.svg"
+        },
+        {
+            "email":"matteo@xdinner.com",
+            "name": "matteo",
+            "img": "http://www.clker.com/cliparts/O/N/h/C/W/z/teamstijl-person-icon-orange.svg"
+        },
+        {
+            "email":"provvidenza@xdinner.com",
+            "name": "provvidenza",
+            "img": "http://www.clker.com/cliparts/O/N/h/C/W/z/teamstijl-person-icon-orange.svg"
+        },
+        {
+            "email":"andrea@xdinner.com",
+            "name": "andrea",
+            "img": "http://www.clker.com/cliparts/O/N/h/C/W/z/teamstijl-person-icon-orange.svg"
+        },
+        {
+            "email":"giuseppe@xdinner.com",
+            "name": "giuseppe",
+            "img": "http://www.clker.com/cliparts/O/N/h/C/W/z/teamstijl-person-icon-orange.svg"
+        },
+    ]
+}
