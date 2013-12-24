@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeDinner</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_login">Login</string>
+    <string name="main_name">weDinner</string>
+    <string-array name="courses">
+        <item >Appetizers</item>
+        <item >Main Dishes</item>
+        <item >Side Dishes</item>
+        <item >Desserts</item>
+    </string-array>
+    <string name="friends_progress">Loading friends list</string>
+
+</resources>
